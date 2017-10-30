@@ -1,3 +1,13 @@
 body {
   background-color: #9acfae;
+  font-family: 'Roboto', 'helvetica neue', helvetica, arial, sans-serif;
+}
+header {
+  margin: 10px;
+}
+#page {
+  margin: 10px;
+}
+footer {
+  margin: 10px;
 }
